@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+beautifulsoup4
+rank-bm25
+sentence-transformers
+scikit-learn
+catboost
+pymorphy3
+torch
+tqdm
